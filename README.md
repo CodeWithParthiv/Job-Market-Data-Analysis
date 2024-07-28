@@ -12,8 +12,6 @@ Welcome to the Power BI Dashboard project aimed at analyzing the factors that af
 
 In the project repository, you will find the following files:
 
-- Project Preview.mp4: A video preview showcasing the project highlights.
-
 - Dashboard.pbix: The Power BI file containing the analysis dashboard.
 
 - Project Docs.pdf: Comprehensive project documentation.
